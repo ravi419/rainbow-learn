@@ -4,9 +4,7 @@ purple
 blue
 orange
 indigo
-Recycle
-yellow
-unicorn
+RecycleS
 green 
 violet
 these are the colours of rainbow
